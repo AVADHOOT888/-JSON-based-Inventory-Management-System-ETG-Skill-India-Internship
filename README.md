@@ -14,19 +14,19 @@ Each transactions display the product Id, quantity purchased and total bill amou
 
 
 # I have added 5 features per product id:
-Product name
-Price
-Quantity
-Date of Manufacture
-Date of Expiry
+1. Product name<br>
+2. Price<br>
+3. Quantity<br>
+4. Date of Manufacture<br>
+5. Date of Expiry<br>
 
 # My project can do the following things:
-1.Adding items to the inventory
-2.Updating the inventory after adding items
-3.Purchaing items by Customers from the Inventory
-4.Updating the inventory after purchase
-5.Generating the bill after every purchase of product
-6.Generates sales.json file which contains all the transactions.
+1. Adding items to the inventory<br>
+2. Updating the inventory after adding items<br>
+3. Purchaing items by Customers from the Inventory<br>
+4. Updating the inventory after purchase<br>
+5. Generating the bill after every purchase of product<br>
+6. Generates sales.json file which contains all the transactions.<br>
 
 
 #About:
